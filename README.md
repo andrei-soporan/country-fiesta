@@ -14,5 +14,18 @@ AI to detect the country code of a given address
 
 ### 1. Address datasource
 
-**OpenAddress**: training datasource to be used 'https://batch.openaddresses.io/data'
+**OpenAddress**  training datasource to be used: https://batch.openaddresses.io/data
+
+---
+
+
+### 2. Sample neural network
+
+```py
+class LinearRegressionModel(nn.Model)
+    def __init(self)
+        pass
+
+```
+
 ---
